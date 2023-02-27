@@ -121,6 +121,8 @@ class TakePictureScreenState extends State<TakePictureScreen> {
   }
 }
 
+
+
 // A widget that displays the picture taken by the user.
 class DisplayPictureScreen extends StatelessWidget {
   final String imagePath;
@@ -137,3 +139,5 @@ class DisplayPictureScreen extends StatelessWidget {
     );
   }
 }
+
+//Hello git section hello suraj
